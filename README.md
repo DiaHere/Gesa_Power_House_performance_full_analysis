@@ -26,7 +26,7 @@ Create a `.env.cred` file in the `scripts` directory with your local database cr
 - Which age groups attend the theatre most frequently? / Do different age groups prefer different types of events?
 - Which income groups are most represented among attendees?
 
-# Customer Feedback Experiences
+## Customer Feedback Experiences
 - What recurring positive and negative themes appear in survey feedback?
 - Which months and events received the most positive sentiment?
 - Does positive feedback correlate with the higher attendance?
