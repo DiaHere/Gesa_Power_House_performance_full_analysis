@@ -24,7 +24,6 @@ Create a `.env.cred` file in the `scripts` directory with your local database cr
 * **Map Preferences:** Correlate demographic segments with specific event types to help tailor future programming and marketing campaigns.
 
 ### 5. Customer Sentiment Analysis (NLP)
-![Sentiment Analysis Visualization](http://googleusercontent.com/image_collection/image_retrieval/word_cloud_sentiment_analysis)
 * **Extract Themes:** Implement **Natural Language Processing (NLP)** techniques to identify recurring positive and negative themes within unstructured survey feedback.
 * **Score Sentiment:** Calculate sentiment scores per event and month to quantitatively measure audience satisfaction.
 * **Correlate Data:** Compare qualitative sentiment scores against quantitative attendance metrics to determine if satisfaction levels directly impact footfall.
