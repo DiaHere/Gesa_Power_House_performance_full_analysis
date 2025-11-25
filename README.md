@@ -6,7 +6,7 @@ Create a `.env.cred` file in the `scripts` directory with your local database cr
 ### 1. Operational Efficiency & Audience Growth
 * **Assess Seasonality:** Identify seasonal peaks, slumps, and optimal scheduling windows by analyzing monthly attendance trends (excluding incomplete 2025 data).
 * **Measure Retention:** Evaluate audience loyalty and long-term engagement by tracking the ratio of first-time vs. returning visitors over a two-year period.
-* **Investigate Correlations:** Determine if there is a statistical relationship between high volumes of first-time visitors and total venue capacity utilization.
+* **Investigate Correlations:** Determine if there is a statistical relationship between first-time visitors and total general attendance.
 
 ### 2. Event Performance Strategy
 * **Benchmark Success:** Compare high-performing vs. low-performing events to isolate the specific characteristics (genre, timing, cast) that drive ticket sales.
