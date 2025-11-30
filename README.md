@@ -19,8 +19,9 @@ Create a `.env.cred` file in the `scripts` directory with your local database cr
   -  I plan to further analyze the specific events in months where ticket revenue exceeded donations using Python, allowing a deeper investigation into which productions or programming patterns contribute most to earned-income peaks
 * **Attribute Revenue:** Isolate the specific months that generate the highest net financial gain and list the events contributing to that gain.
   - I will use Python NLP to categorize event types and determine which kinds of programming contribute most to this seasonal revenue peak.
-* **Test Hypothesis:** Verify if higher attendance months correlate with increased donation revenue or if donations follow a different cycle.
 * **Map Trends:** Chart monthly financial performance to pinpoint the theatre's strongest and weakest fiscal periods.
+  - Visualize later
+* **Test Hypothesis:** Determine the extent to which monthly attendance influences net revenue by estimating the effect of attendance on net revenue while controlling for seasonal patterns.
 
 ### 4. Marketing & Demographic Segmentation
 * **Evaluate Channels:** Assess which marketing channels yield the highest conversion rate for *new* visitors.
