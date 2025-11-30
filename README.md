@@ -7,6 +7,7 @@ Create a `.env.cred` file in the `scripts` directory with your local database cr
 * **Assess Seasonality:** Identify seasonal peaks, slumps, and optimal scheduling windows by analyzing monthly attendance trends (excluding incomplete 2025 data).
 * **Measure Retention:** Evaluate audience loyalty and long-term engagement by tracking the ratio of first-time vs. returning visitors over a two-year period.
 * **Investigate Correlations:** Determine if there is a statistical relationship between first-time visitors and total general attendance.
+  - Use python to see which event types yield the most attendance
 
 ### 2. Event Performance Strategy
 * **Benchmark Success:** Compare high-performing vs. low-performing events to isolate the specific characteristics (genre, timing, cast) that drive ticket sales.
@@ -16,7 +17,8 @@ Create a `.env.cred` file in the `scripts` directory with your local database cr
 ### 3. Financial Health Analysis
 * **Identify Profit Drivers:** Identify which months generate higher ticket revenue versus which months generate higher donor engagement, and determine which events fall within those months.
   -  I plan to further analyze the specific events in months where ticket revenue exceeded donations using Python, allowing a deeper investigation into which productions or programming patterns contribute most to earned-income peaks
-* **Attribute Revenue:** Isolate specific months and events that generate the highest net financial gain for the organization.
+* **Attribute Revenue:** Isolate the specific months that generate the highest net financial gain and list the events contributing to that gain.
+  - I will use Python NLP to categorize event types and determine which kinds of programming contribute most to this seasonal revenue peak.
 * **Test Hypothesis:** Verify if higher attendance months correlate with increased donation revenue or if donations follow a different cycle.
 * **Map Trends:** Chart monthly financial performance to pinpoint the theatre's strongest and weakest fiscal periods.
 
