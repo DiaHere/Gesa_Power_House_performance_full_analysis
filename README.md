@@ -11,10 +11,12 @@ Create a `.env.cred` file in the `scripts` directory with your local database cr
 ### 2. Event Performance Strategy
 * **Benchmark Success:** Compare high-performing vs. low-performing events to isolate the specific characteristics (genre, timing, cast) that drive ticket sales.
 * **Analyze Variables:** Determine the impact of event duration and average ticket pricing on total attendance numbers.
-* **Identify Profit Drivers:** Distinguish which event types drive higher ticket revenue versus those that primarily drive donor engagement.
-
+* **Ticket Profits:** identify the average profit generated from tickets per event. 
+  
 ### 3. Financial Health Analysis
-* **Attribute Revenue:** Isolate specific months and event types that generate the highest net financial gain for the organization.
+* **Identify Profit Drivers:** Identify which months generate higher ticket revenue versus which months generate higher donor engagement, and determine which events fall within those months.
+  -  I plan to further analyze the specific events in months where ticket revenue exceeded donations using Python, allowing a deeper investigation into which productions or programming patterns contribute most to earned-income peaks
+* **Attribute Revenue:** Isolate specific months and events that generate the highest net financial gain for the organization.
 * **Test Hypothesis:** Verify if higher attendance months correlate with increased donation revenue or if donations follow a different cycle.
 * **Map Trends:** Chart monthly financial performance to pinpoint the theatre's strongest and weakest fiscal periods.
 
