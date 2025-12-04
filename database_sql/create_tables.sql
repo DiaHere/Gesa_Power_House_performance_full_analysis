@@ -28,6 +28,20 @@ CREATE TABLE IF NOT EXISTS events(
     end_time INT
 );
 
+-- Insert missing events
+INSERT INTO events (event_title, date, start_time, end_time)
+SELECT 
+    t.event_title,
+    MAX(t.date) AS date,
+    NULL AS start_time,
+    NULL AS end_time
+FROM tickets t
+LEFT JOIN events e
+    ON t.event_title = e.event_title
+WHERE e.event_id IS NULL           
+GROUP BY t.event_title;
+
+
 CREATE TABLE IF NOT EXISTS post_event_surveys(
     survey_id INT AUTO_INCREMENT PRIMARY KEY,
     event_id INT,
@@ -40,6 +54,15 @@ CREATE TABLE IF NOT EXISTS post_event_surveys(
     feeback_suggestion TEXT,
     FOREIGN KEY (event_id) REFERENCES events(event_id)
 );
+
+-- Fill in event_id on post_event_surveys using space-insensitive matching
+UPDATE post_event_surveys AS pes
+JOIN events AS e
+  ON REPLACE(LOWER(pes.event_title), ' ', '') =
+     REPLACE(LOWER(e.event_title), ' ', '')
+SET pes.event_id = e.event_id
+WHERE pes.event_id IS NULL;
+
 
 -- Create donations table
 CREATE TABLE IF NOT EXISTS donations(
@@ -66,6 +89,13 @@ CREATE TABLE IF NOT EXISTS tickets(
     ticket_prices INT,
     FOREIGN KEY (event_id) REFERENCES events(event_id)
 );
+
+-- Link tickets with events
+UPDATE tickets t
+JOIN events e 
+    ON t.event_title = e.event_title
+SET t.event_id = e.event_id
+WHERE t.event_id IS NULL;
 
 -- Create a CTE calendar table
 SET @startdate := '2023-01-01', 
