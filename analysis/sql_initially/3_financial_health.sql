@@ -1,4 +1,3 @@
-
 -- Monthly ticket revenue VS Montly donations
 WITH monthly_ticket_revenue AS (
     SELECT
