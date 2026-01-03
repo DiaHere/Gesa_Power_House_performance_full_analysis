@@ -289,6 +289,10 @@ All analytical insights are visualized using **Tableau dashboards**, including:
 
 * Confidence bands represent historical attendance error (MAE), not revenue uncertainty.
 
+## Tableau Dashboards
+Interactive dashboards summarizing the key findings are available at the following link:
+[Tableau Online Dashboard](https://10ay.online.tableau.com/#/site/danad-f2c6f022a1/workbooks/3347826/views?order=name%3Aasc)
+
 ---
 
 ## Tools Used
