@@ -1,0 +1,207 @@
+event_id,event_title,event_date,start_time,end_time,month_key,genre,duration_mins,avg_att_per_event,avg_ticket_price
+1,“Walla Walla”: A Short Film Premiere,2023-01-22,1400.0,1600.0,2023-01-01,Film Screening,120,79.66666666666667,
+2,Power House Movie: Sam Now,2023-01-25,1900.0,2200.0,2023-01-01,Film Screening,180,79.66666666666667,
+3,Youtopia (film),2023-02-03,1900.0,2200.0,2023-02-01,Film Screening,180,381.5,15.125
+4,Scout Durwood Live,2023-02-04,1900.0,2200.0,2023-02-01,Comedy Show,180,381.5,34.0196
+5,Power House Movie: An Evening of Ukrainian Shorts,2023-03-01,1900.0,2100.0,2023-03-01,Film Screening,120,136.4,
+6,Gina Chavez,2023-03-10,1900.0,2100.0,2023-03-01,Fundraiser / Gala,120,136.4,34.3934
+7,Best of Movie Crush,2023-03-11,1800.0,2100.0,2023-03-01,Film Screening,180,136.4,16.0952
+8,Little Watts: Leapin’ Louie,2023-03-12,1400.0,1530.0,2023-03-01,Musical,90,136.4,
+9,“It’s A Lot”,2023-03-17,1900.0,2100.0,2023-03-01,Fundraiser / Gala,120,136.4,
+10,Walla Walla Choral Society – A Night at the Theatre,2023-03-19,1500.0,1700.0,2023-03-01,Music Concert,120,136.4,
+11,Little Watts: Peter and the Wolf,2023-03-23,1900.0,2000.0,2023-03-01,Musical,60,136.4,
+12,Tel Aviv Wind Quintet,2023-03-24,1900.0,2200.0,2023-03-01,Musical,180,136.4,34.0255
+13,Mike Delamont: “God is a Scottish Drag Queen” Part (2),2023-03-25,1900.0,2200.0,2023-03-01,Comedy Show,180,136.4,
+14,Power House Movies: Seattle Jewish Film Festival – Selected Shorts,2023-03-29,1900.0,2030.0,2023-03-01,Film Screening,90,136.4,
+15,The Wildcards,2023-04-01,1900.0,2200.0,2023-04-01,Theatre Play,180,79.11111111111111,43.0316
+16,Mike Delamont: “God is a Scottish Drag Queen” Part (3),2023-04-22,1900.0,2200.0,2023-04-01,Comedy Show,180,79.11111111111111,
+17,“Being Michelle”,2023-04-26,1900.0,2100.0,2023-04-01,Musical,120,79.11111111111111,
+18,The Nordic Fiddlers Bloc,2023-04-29,1900.0,2200.0,2023-04-01,Musical,180,79.11111111111111,
+19,The Talbott Brothers,2023-05-12,1900.0,2100.0,2023-05-01,Musical,120,275.42857142857144,35.3617
+20,The Paperboys,2023-05-19,1900.0,2200.0,2023-05-01,Theatre Play,180,275.42857142857144,30.1989
+21,Tango del Cielo,2023-05-20,1900.0,2200.0,2023-05-01,Musical,180,275.42857142857144,42.8562
+22,Verge Conference,2023-05-25,1230.0,2000.0,2023-05-01,Workshop / Class,450,275.42857142857144,
+23,Walla Walla Choral Society – Die Nachtigall,2023-05-28,1500.0,1700.0,2023-05-01,Musical,120,275.42857142857144,
+24,Caravan of GLAM,2023-06-02,1900.0,2200.0,2023-06-01,Musical,180,214.8,33.0909
+25,Cultural Futures Meeting,2023-06-08,1700.0,1900.0,2023-06-01,Workshop / Class,120,214.8,
+26,Little Watts: Allez-OOPS!,2023-06-11,1400.0,1600.0,2023-06-01,Musical,120,214.8,10.9195
+27,Pride Movies Block,2023-06-28,1900.0,2100.0,2023-06-01,Film Screening,120,214.8,
+28,The Red Badge Project: Veterans Tell Their Stories,2023-07-06,1900.0,2100.0,2023-07-01,Workshop / Class,120,383.0,
+29,Kate & The Crocodiles,2023-07-22,1900.0,2100.0,2023-07-01,Comedy Show,120,383.0,44.7059
+30,Volunteer Orientation,2023-07-27,1900.0,2030.0,2023-07-01,Workshop / Class,90,383.0,
+31,Paula Poundstone,2023-07-28,1900.0,2200.0,2023-07-01,Workshop / Class,180,383.0,55.129
+32,Downwind,2023-08-09,1900.0,2100.0,2023-08-01,Musical,120,105.5,
+33,Spanish Language Shorts Block,2023-08-23,1900.0,2100.0,2023-08-01,Film Screening,120,105.5,
+34,How I Learned What I Learned,2023-09-09,1600.0,2000.0,2023-09-01,Workshop / Class,240,249.6,24.1762
+35,How I Learned How I Learned,2023-09-10,1900.0,2130.0,2023-09-01,Workshop / Class,150,249.6,
+36,Inverted Space Ensemble,2023-09-16,1900.0,2200.0,2023-09-01,Musical,180,249.6,16.5833
+37,Vincent,2023-09-29,0.0,0.0,2023-09-01,Musical,0,249.6,29.2241
+38,Dancing with the W2 Stars,2023-10-07,1900.0,2100.0,2023-10-01,Musical,120,259.8333333333333,48.7889
+39,Little Watts: Kenny Ahern,2023-10-08,1900.0,2100.0,2023-10-01,Musical,120,259.8333333333333,10.7253
+40,Gustavo Alonso López: Guitarra Flamenca,2023-10-15,1900.0,2000.0,2023-10-01,Musical,60,259.8333333333333,
+41,Exposure,2023-10-18,1900.0,2100.0,2023-10-01,Film Screening,120,259.8333333333333,14.95
+42,Pigs on the Wing: Two Nights of Pink Floyd,2023-10-20,1900.0,2100.0,2023-10-01,Film Screening,120,259.8333333333333,
+43,Live Flamenco: Lo Preciso,2023-10-26,0.0,0.0,2023-10-01,Musical,0,259.8333333333333,45.9357
+44,Collision of Rhythm,2023-10-27,0.0,0.0,2023-10-01,Musical,0,259.8333333333333,
+45,The Deeper You Dig – Canceled,2023-11-01,0.0,0.0,2023-11-01,Workshop / Class,0,201.1818181818182,
+46,Rockabilly Space Force – Canceled,2023-11-03,0.0,0.0,2023-11-01,Film Screening,0,201.1818181818182,
+47,Fly Fishing Film Tour,2023-11-09,1900.0,2100.0,2023-11-01,Film Screening,120,201.1818181818182,
+48,Warren Miller’s ALL TIME,2023-11-11,1730.0,2200.0,2023-11-01,Film Screening,270,201.1818181818182,
+49,Little Watts: The Circus Science Spectacular,2023-11-12,1400.0,1500.0,2023-11-01,Theatre Play,60,201.1818181818182,
+50,Chase Joliet’s “Grapefruit”,2023-11-15,0.0,0.0,2023-11-01,Musical,0,201.1818181818182,
+51,Mid-Winter Songs: Walla Walla Choral Society,2023-11-26,0.0,0.0,2023-11-01,Musical,0,201.1818181818182,
+52,A Celtic Christmas,2023-12-03,1700.0,2000.0,2023-12-01,Musical,180,417.57142857142856,35.2556
+53,The Nutcracker,2023-12-15,1900.0,2100.0,2023-12-01,Musical,120,417.57142857142856,
+54,Holiday Shorts,2023-12-20,0.0,0.0,2023-12-01,Film Screening,0,417.57142857142856,
+55,New Years Eve Comedy: Andrew Sleighter,2023-12-31,0.0,0.0,2023-12-01,Comedy Show,0,417.57142857142856,
+56,FILM GEEK,2024-01-17,1900.0,2130.0,2024-01-01,Film Screening,150,428.25,
+57,Mike Birbiglia: Please Stop the Ride,2024-01-24,0.0,0.0,2024-01-01,Comedy Show,0,428.25,54.5831
+58,International Guitar Night XXIV,2024-01-31,0.0,0.0,2024-01-01,Music Concert,0,428.25,36.653
+59,Live2Lead Walla Walla,2024-02-16,1300.0,1900.0,2024-02-01,Musical,360,128.5,54.8605
+60,Caesar Sings Nat ‘King’ Cole,2024-02-17,1900.0,2100.0,2024-02-01,Musical,120,128.5,
+61,Holy Frit,2024-02-21,1900.0,2100.0,2024-02-01,Musical,120,128.5,
+62,February Film Feast,2024-02-24,1700.0,2100.0,2024-02-01,Fundraiser / Gala,240,128.5,
+63,One Noble Journey,2024-03-01,0.0,0.0,2024-03-01,Musical,0,179.8,33.7907
+64,Jeff’s Big Bubble Bonanza,2024-03-03,1900.0,2100.0,2024-03-01,Comedy Show,120,179.8,
+65,Seattle Jewish Film Festival Shorts Program,2024-03-13,1900.0,2100.0,2024-03-01,Film Screening,120,179.8,
+66,Ímar,2024-03-15,1500.0,1600.0,2024-03-01,Musical,60,179.8,34.1095
+67,The Rat Pack is Back!,2024-03-17,1900.0,2100.0,2024-03-01,Musical,120,179.8,20.1547
+68,Vishniac,2024-03-27,0.0,0.0,2024-03-01,Musical,0,179.8,
+69,Matt Johnson – Urban Deception,2024-03-30,0.0,0.0,2024-03-01,Theatre Play,0,179.8,
+70,Steve Hofstetter: Kill the Butterflies,2024-04-10,1900.0,2100.0,2024-04-01,Comedy Show,120,123.75,40.2195
+71,Alexander Kariotis: Master Class,2024-04-12,1900.0,2100.0,2024-04-01,Workshop / Class,120,123.75,
+72,Alexander Kariotis,2024-04-13,1900.0,2100.0,2024-04-01,Music Concert,120,123.75,24.8471
+73,Sometimes I Think About Dying,2024-04-17,1900.0,2200.0,2024-04-01,Workshop / Class,180,123.75,15.6049
+74,Derina Harvey Band,2024-04-20,1900.0,2100.0,2024-04-01,Musical,120,123.75,
+75,Kate & The Crocodiles(1),2024-04-26,0.0,0.0,2024-04-01,Musical,0,123.75,
+76,Macbeth: Ralph Fiennes & Indira Varma,2024-05-02,0.0,0.0,2024-05-01,Theatre Play,0,206.83333333333334,
+77,Ladies of Laughter,2024-05-04,0.0,0.0,2024-05-01,Comedy Show,0,206.83333333333334,39.1946
+78,Las Cafeteras,2024-05-09,1900.0,2100.0,2024-05-01,Fundraiser / Gala,120,206.83333333333334,32.3314
+79,Storm Lake,2024-05-31,0.0,0.0,2024-05-01,Musical,0,206.83333333333334,
+80,Power Up Fundraiser,2024-06-07,1730.0,1900.0,2024-06-01,Fundraiser / Gala,90,189.28571428571428,40.9667
+81,Caravan of GLAM(1),2024-06-07,1900.0,2100.0,2024-06-01,Musical,120,189.28571428571428,
+82,Little Watts: Allez-OOPS!(1),2024-06-09,1400.0,1630.0,2024-06-01,Musical,150,189.28571428571428,
+83,Inside the Yellow Cocoon Shell,2024-06-12,1900.0,2100.0,2024-06-01,Musical,120,189.28571428571428,15.0
+84,Late Bloomers,2024-06-26,0.0,0.0,2024-06-01,Comedy Show,0,189.28571428571428,
+85,Red Badge Project,2024-07-03,0.0,0.0,2024-07-01,Workshop / Class,0,414.2,0.0
+86,Walla Walla Movie Crush,2024-07-05,0.0,0.0,2024-07-01,Film Screening,0,414.2,
+87,Stella Cole,2024-07-13,0.0,0.0,2024-07-01,Musical,0,414.2,36.7801
+88,The Linguini Incident,2024-07-17,0.0,0.0,2024-07-01,Theatre Play,0,414.2,15.2632
+89,Enormous: The Gorge Story,2024-08-14,1900.0,2100.0,2024-08-01,Theatre Play,120,123.5,
+90,Edward Scissorhands (dance),2024-09-25,0.0,0.0,2024-09-01,Musical,0,131.5,
+91,Shane Smith & The Saints,2024-09-27,0.0,0.0,2024-09-01,Musical,0,131.5,323.3651
+92,Majority Rules,2024-10-02,0.0,0.0,2024-10-01,Fundraiser / Gala,0,233.1,
+93,Dancing with the W2 Stars(1),2024-10-05,0.0,0.0,2024-10-01,Musical,0,233.1,
+94,Edward Scissorhands (dance)(1),2024-09-29,1400.0,1600.0,2024-09-01,Musical,120,131.5,
+95,Above the Trees,2024-10-16,1900.0,2100.0,2024-10-01,Musical,120,233.1,14.8571
+96,Kommuna Lux,2024-10-18,1000.0,1600.0,2024-10-01,Musical,360,233.1,32.6807
+97,Fly Fishing Film Tour(1),2024-10-19,1900.0,2100.0,2024-10-01,Film Screening,120,233.1,
+98,What is a Chief?,2024-10-23,1900.0,2100.0,2024-10-01,Workshop / Class,120,233.1,7.0417
+99,A Band Called Honalee,2024-10-25,0.0,0.0,2024-10-01,Musical,0,233.1,34.6324
+100,Live2Lead Walla Walla(1),2024-10-26,0.0,0.0,2024-10-01,Musical,0,233.1,
+101,Pigs on the Wing: Echoes of Pink Floyd,2024-11-01,0.0,0.0,2024-11-01,Film Screening,0,243.55555555555554,
+102,Rhys Thomas: Science Circus,2024-11-03,1400.0,1500.0,2024-11-01,Workshop / Class,60,243.55555555555554,10.7371
+103,AMERICA’S SWEETHEARTS,2024-11-08,1900.0,2100.0,2024-11-01,Musical,120,243.55555555555554,
+104,Warren Miller’s 75: A New Chapter,2024-11-09,1900.0,2100.0,2024-11-01,Film Screening,120,243.55555555555554,
+105,Sunset Road,2024-11-13,0.0,0.0,2024-11-01,Film Screening,0,243.55555555555554,
+106,Rock the Holidays,2024-12-04,1900.0,2100.0,2024-12-01,Musical,120,253.69230769230768,41.0254
+107,A Celtic Christmas(1),2024-12-06,1900.0,2100.0,2024-12-01,Musical,120,253.69230769230768,
+108,Little Watts: Holiday Shorts,2024-12-08,1400.0,1500.0,2024-12-01,Film Screening,60,253.69230769230768,
+109,Sensory-Inclusive Holiday Shorts,2024-12-08,1600.0,1700.0,2024-12-01,Film Screening,60,253.69230769230768,
+110,Chronicles of a Wandering Saint,2024-12-11,1900.0,2100.0,2024-12-01,Theatre Play,120,253.69230769230768,15.8
+111,‘Tis the Season,2024-12-14,1400.0,1600.0,2024-12-01,Musical,120,253.69230769230768,
+112,A Celtic Christmas(2),2024-12-15,1900.0,2100.0,2024-12-01,Musical,120,253.69230769230768,
+113,The Nutcracker Ballet,2024-12-21,1400.0,1600.0,2024-12-01,Musical,120,253.69230769230768,44.2836
+114,Kira Soltanovich,2024-12-31,0.0,0.0,2024-12-01,Musical,0,253.69230769230768,33.1184
+115,Know Your Place,2025-01-15,1900.0,2100.0,2025-01-01,Fundraiser / Gala,120,151.6,16.2105
+116,Honoring Women Peacebuilders in Africa and Beyond,2025-01-22,1900.0,2100.0,2025-01-01,Workshop / Class,120,151.6,
+117,Funke,2025-01-29,1730.0,2100.0,2025-01-01,Fundraiser / Gala,210,151.6,
+118,February Film Feast(1),2025-02-01,0.0,0.0,2025-02-01,Film Screening,0,56.892857142857146,
+119,The Thinking Game (Film),2025-02-02,1900.0,2100.0,2025-02-01,Film Screening,120,56.892857142857146,
+120,International Guitar Night XXV,2025-02-05,1900.0,2100.0,2025-02-01,Music Concert,120,56.892857142857146,54.0606
+121,Macbeth: David Tennant & Cush Jumbo,2025-02-09,1400.0,1600.0,2025-02-01,Theatre Play,120,56.892857142857146,13.5059
+122,ULTIMATE CITIZENS,2025-02-12,1900.0,2100.0,2025-02-01,Workshop / Class,120,56.892857142857146,
+123,Jen Kober,2025-02-14,1900.0,2100.0,2025-02-01,Workshop / Class,120,56.892857142857146,52.0847
+124,Jackie Robinson: A Game Apart,2025-02-21,1900.0,2100.0,2025-02-01,Film Screening,120,56.892857142857146,30.8214
+125,My Own Normal,2025-02-26,0.0,0.0,2025-02-01,Workshop / Class,0,56.892857142857146,12.9
+126,Seattle Jewish Film Festival,2025-02-20,,,2025-02-01,Film Screening,0,56.892857142857146,15.1053
+127,A Night at the Theatre - Walla Walla Choral Society,2023-03-20,,,2023-03-01,Theatre Play,0,136.4,20.2628
+128,Sam Now (film),2023-01-25,,,2023-01-01,Film Screening,0,79.66666666666667,15.7273
+129,Tel Aviv's Peter and the Wolf,2023-03-23,,,2023-03-01,Film Screening,0,136.4,10.8165
+130,God is a Scottish Drag Queen 2,2023-04-27,,,2023-04-01,Musical,0,79.11111111111111,33.4333
+131,Matt Johnson - Urban Deception,2024-03-30,,,2024-03-01,Theatre Play,0,179.8,38.83
+132,Little Watts: Leapin' Louie,2023-03-12,,,2023-03-01,Musical,0,136.4,10.5133
+133,The Nordic Fiddler's Bloc,2023-04-29,,,2023-04-01,Musical,0,79.11111111111111,28.8882
+134,Die Nachtigall,2023-05-29,,,2023-05-01,Fundraiser / Gala,0,275.42857142857144,20.0982
+135,Power House Movie: Ukrainian Short Films,2023-03-01,,,2023-03-01,Film Screening,0,136.4,15.6389
+136,God is a Scottish Drag Queen 3,2023-04-22,,,2023-04-01,Musical,0,79.11111111111111,33.0732
+137,The Circus Science Spectacular,2023-11-12,,,2023-11-01,Workshop / Class,0,201.1818181818182,10.5959
+138,Power House Movie: It's a Lot,2023-03-17,,,2023-03-01,Film Screening,0,136.4,0.0
+139,Little Watts: Duke Otherwise,2023-04-25,,,2023-04-01,Musical,0,79.11111111111111,8.8182
+140,Power House Movie: Being Michelle,2023-04-21,,,2023-04-01,Film Screening,0,79.11111111111111,16.0
+141,Power House Movie: Exposure,2023-05-31,,,2023-05-01,Film Screening,0,275.42857142857144,14.7111
+142,Power House Movie: Pride Shorts,2023-06-28,,,2023-06-01,Film Screening,0,214.8,13.8222
+143,Collision of Rhythm ,2023-10-27,,,2023-10-01,Musical,0,259.8333333333333,24.068
+144,Pigs on the Wing Night 2 - Mystery,2023-10-21,,,2023-10-01,Film Screening,0,259.8333333333333,44.3569
+145,Pigs on the Wing Night 1 - Retrospective,2023-10-20,,,2023-10-01,Film Screening,0,259.8333333333333,43.7366
+146,Power House Movie: Downwind,2023-08-09,,,2023-08-01,Film Screening,0,105.5,15.4583
+147,Power House Movie: Spanish Language Shorts,2023-08-23,,,2023-08-01,Film Screening,0,105.5,14.619
+148,Seattle Rock Orchestra Plays Pink Floyd - concert (2021),2023-07-21,,,2023-07-01,Music Concert,0,383.0,0.0
+149,Donor Stewardship event,2023-09-14,,,2023-09-01,Workshop / Class,0,249.6,0.0
+150,Andrew Sleighter,2023-12-31,,,2023-12-01,Workshop / Class,0,417.57142857142856,33.1365
+151,Mid-Winter Songs,2023-11-27,,,2023-11-01,Musical,0,201.1818181818182,19.5102
+152,Rockabilly Space Force,2023-12-05,,,2023-12-01,Musical,0,417.57142857142856,17.663
+153,Guitarra Flamenca,2023-10-15,,,2023-10-01,Musical,0,259.8333333333333,22.6465
+154,"BART, Warren Miller: All Time",2023-11-11,,,2023-11-01,Film Screening,0,201.1818181818182,29.4712
+155,Power House Movie: The Deeper You Dig,2023-10-31,,,2023-10-01,Film Screening,0,259.8333333333333,10.1667
+156,Power House Movie: Grapefruit,2023-11-15,,,2023-11-01,Film Screening,0,201.1818181818182,15.25
+157,Caesar Sings Nat King Cole,2024-02-17,,,2024-02-01,Musical,0,128.5,42.2207
+158,Power House Movie: Holiday Shorts,2023-12-21,,,2023-12-01,Film Screening,0,417.57142857142856,15.0128
+159,Jeff Boyer's Big Bubble Bonanza,2024-03-03,,,2024-03-01,Comedy Show,0,179.8,10.5423
+160,Power House Movie: Film Geek,2024-01-14,,,2024-01-01,Film Screening,0,428.25,16.375
+161,Arianne True Poetry Reading,2024-02-01,,,2024-02-01,Workshop / Class,0,128.5,0.0
+162,Power House Movie: Holy Frit,2024-02-21,,,2024-02-01,Film Screening,0,128.5,15.3088
+163,Ticket Protection ($3),2024-09-26,,,2024-09-01,Music Concert,0,131.5,
+164,February Film Feast (2024),2024-02-24,,,2024-02-01,Film Screening,0,128.5,54.4021
+165,Ticket Protection ($4),2024-09-21,,,2024-09-01,Music Concert,0,131.5,
+166,Derina Harvey,2024-04-20,,,2024-04-01,Music Concert,0,123.75,34.6165
+167,Power House Movie: Vishniac,2024-03-27,,,2024-03-01,Film Screening,0,179.8,15.5439
+168,Power House Movie: Storm Lake,2024-05-31,,,2024-05-01,Film Screening,0,206.83333333333334,15.4146
+169,Alexander Kariotis Masterclass,2024-04-12,,,2024-04-01,Workshop / Class,0,123.75,26.2963
+170,Live Cinema: Macbeth (2024),2024-05-05,,,2024-05-01,Film Screening,0,206.83333333333334,15.4382
+171,The Jeremiahs,2024-06-18,,,2024-06-01,Musical,0,189.28571428571428,17.3462
+172,The Red Badge Project,2024-07-03,,,2024-07-01,Workshop / Class,0,414.2,0.0
+173,Power House Movie: Late Bloomers,2024-06-26,,,2024-06-01,Film Screening,0,189.28571428571428,16.0
+174,Pigs on the Wing,2024-11-02,,,2024-11-01,Comedy Show,0,243.55555555555554,45.1907
+175,Power House Movie: Enormous,2024-08-14,,,2024-08-01,Film Screening,0,123.5,15.1978
+176,Edward Scissorhands,2024-10-17,,,2024-10-01,Musical,0,233.1,14.4167
+177,AMERICA'S SWEETHEARTS,2024-11-08,,,2024-11-01,Musical,0,243.55555555555554,34.9787
+178,Celtic Christmas,2024-12-15,,,2024-12-01,Workshop / Class,0,253.69230769230768,40.2214
+179,Power House Movie: Majority Rules,2024-10-02,,,2024-10-01,Film Screening,0,233.1,13.907
+180,Power House Movie: Sunset Road,2024-11-13,,,2024-11-01,Film Screening,0,243.55555555555554,14.3538
+181,Steve Hofstetter,2025-02-25,,,2025-02-01,Music Concert,0,56.892857142857146,40.9756
+182,Power House Movie: Yakona,2024-09-17,,,2024-09-01,Film Screening,0,131.5,8.125
+183,Warren Miller's 75: A New Chapter,2024-11-09,,,2024-11-01,Film Screening,0,243.55555555555554,28.7456
+184,Little Watts Holiday Films,2024-12-08,,,2024-12-01,Film Screening,0,253.69230769230768,11.6222
+185,Skerryvore,2025-02-28,,,2025-02-01,Musical,0,56.892857142857146,50.3333
+186,Power House Movie: Funke,2025-01-29,,,2025-01-01,Film Screening,0,151.6,13.7632
+187,February Film Feast (2025),2025-02-01,,,2025-02-01,Film Screening,0,56.892857142857146,55.1809
+188,LW Holiday Films Sensory-Friendly,2024-12-08,,,2024-12-01,Film Screening,0,253.69230769230768,11.4865
+189,Power House Movies: Ultimate Citizens,2025-02-11,,,2025-02-01,Film Screening,0,56.892857142857146,15.8
+190,Little Shop of Horrors,2025-02-24,,,2025-02-01,Theatre Play,0,56.892857142857146,50.1324
+191,Skerryvore: Whisky Tasting,2025-02-28,,,2025-02-01,Workshop / Class,0,56.892857142857146,74.0
+192,Scout Durwood Live!,2025-02-27,,,2025-02-01,Musical,0,56.892857142857146,32.0
+193,Big Bang Boom,2025-02-28,,,2025-02-01,Musical,0,56.892857142857146,10.5867
+194,"Honoring Women Peacebuilders in Africa, Beyond",2025-01-18,,,2025-01-01,Workshop / Class,0,151.6,8.5833
+195,Storytelling Power of Comics,2024-12-29,,,2024-12-01,Comedy Show,0,253.69230769230768,0.0
+196,PH Movies: The Thinking Game,2025-02-04,,,2025-02-01,Film Screening,0,56.892857142857146,12.3077
+197,+Power Up Fundraiser,2025-02-06,,,2025-02-01,Fundraiser / Gala,0,56.892857142857146,152.75
+198,Unit Souzou,2025-02-26,,,2025-02-01,Workshop / Class,0,56.892857142857146,32.7273
+199,Bon Débarras,2025-02-23,,,2025-02-01,Musical,0,56.892857142857146,34.3
+200,SRO: The Beatles,2025-02-22,,,2025-02-01,Musical,0,56.892857142857146,48.5306
+201,SRO: David Bowie,2025-02-21,,,2025-02-01,Musical,0,56.892857142857146,53.6087
+202,Burden of Dreams,2025-02-08,,,2025-02-01,Workshop / Class,0,56.892857142857146,16.5
+203,Fly for Freedom,2025-02-16,,,2025-02-01,Musical,0,56.892857142857146,20.75
+204,Anthony Nunziata,2025-02-16,,,2025-02-01,Music Concert,0,56.892857142857146,40.6923
+205,Hans Zimmer & Friends,2025-02-21,,,2025-02-01,Musical,0,56.892857142857146,14.8333
+206,Little Watts: Ventastic,2025-02-18,,,2025-02-01,Musical,0,56.892857142857146,11.25
